@@ -1,6 +1,6 @@
 ### Let's Perform Analysis and Develop Together 🥷 ! 
 
-As a MSDS student at Columbia University, I am looking for a data scientist/Data Analyst full-time role. 
+As a MSDS student at Columbia University, I am looking for a data scientist / Data Analyst full-time role. 
 
 Majored in Mathematics in my undergraduate program, I have been dealing with numbers and data all the time. Mathematics has been amazing me by its magic power to explain everything that happens in the world with the most straightforward words. Of all the fields that applied mathematics, data analysis and data science has attracted me most to explore more of it in the future for its beneficial use in the community. 
 
